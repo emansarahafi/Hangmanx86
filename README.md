@@ -1,2 +1,2 @@
-# Hangmanx86
+# Hangman x86
 A simple hangman game implemented with x86 assembly.
